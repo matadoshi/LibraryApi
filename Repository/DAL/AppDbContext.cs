@@ -1,4 +1,6 @@
 ﻿using DomainModels.Models;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -8,12 +10,23 @@ using System.Threading.Tasks;
 
 namespace Repository.DAL
 {
-    public class AppDbContext:DbContext
+    public class AppDbContext:IdentityDbContext<User>
     {
         public AppDbContext(DbContextOptions<AppDbContext> options):base(options)
         {
 
         }
         public DbSet<Book> Books { get; set; }
+        //public DbSet<User> Users { get; set; }
+        //protected override void OnModelCreating(ModelBuilder builder)
+        //{
+        //    builder.Entity<User>().HasData(
+        //        new User()
+        //        {
+        //            FullName = "onursmlv"
+        //        }
+        //        );
+        //    builder.Entity<Book>();
+        //}
     }
 }

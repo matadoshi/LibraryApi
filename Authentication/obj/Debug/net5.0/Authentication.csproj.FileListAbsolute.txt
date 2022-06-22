@@ -1,0 +1,15 @@
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\bin\Debug\net5.0\Authentication.deps.json
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\bin\Debug\net5.0\Authentication.dll
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\bin\Debug\net5.0\ref\Authentication.dll
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\bin\Debug\net5.0\Authentication.pdb
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\bin\Debug\net5.0\DomainModels.dll
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\bin\Debug\net5.0\DomainModels.pdb
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.csproj.AssemblyReference.cache
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfoInputs.cache
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.AssemblyInfo.cs
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.csproj.CoreCompileInputs.cache
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.csproj.CopyComplete
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.dll
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\ref\Authentication.dll
+C:\Users\Onur\OneDrive\Masaüstü\BookShop\Authentication\obj\Debug\net5.0\Authentication.pdb

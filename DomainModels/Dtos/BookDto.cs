@@ -9,6 +9,7 @@ namespace Repository.Dtos
 {
     public class BookDto
     {
+        public int Id { get; set; }
         [Required]
         public string Name { get; set; }
         [Required]
